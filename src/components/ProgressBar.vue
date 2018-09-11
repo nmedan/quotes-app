@@ -16,8 +16,7 @@
 	.progress {
 	    width:70%;
 		  margin:auto;
-	}
-  
+	} 
 </style>
 
 <script>

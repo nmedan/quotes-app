@@ -12,7 +12,7 @@
         <label for = "author" class = "col-1 col-form-label">Author:</label>
         <div class = "col-2">
           <div class = "input-group">
-             <input type ="text" v-model = "quote.author">
+             <input type = "text" v-model = "quote.author">
           </div>
         </div>		
       </div>
@@ -22,7 +22,7 @@
           <button name = "submit" type = "submit" class = "btn-md">Add Quote</button>
         </div>
       </div>
-    </form>
+   </form>
 </template>
 
 <style>
